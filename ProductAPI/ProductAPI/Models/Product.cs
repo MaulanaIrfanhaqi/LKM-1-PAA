@@ -12,7 +12,7 @@ namespace ProductAPI.Models
 
         public decimal Price { get; set; }
 
-        [Column("category_id")] // 🔥 FIX DI SINI
+        [Column("category_id")] 
         public int CategoryId { get; set; }
 
         [ForeignKey("CategoryId")]

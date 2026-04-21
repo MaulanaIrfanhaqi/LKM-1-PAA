@@ -13,7 +13,7 @@ namespace ProductAPI.Models
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
 
-        [JsonIgnore] // 🔥 penting
+        [JsonIgnore] 
         public ICollection<Product>? Products { get; set; }
     }
 }

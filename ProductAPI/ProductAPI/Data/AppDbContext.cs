@@ -29,7 +29,7 @@ namespace ProductAPI.Data
                 entity.Property(e => e.UpdatedAt).HasColumnName("updated_at");
             });
 
-            // CATEGORY 🔥 INI YANG KURANG TADI
+            // CATEGORY 
             modelBuilder.Entity<Category>(entity =>
             {
                 entity.ToTable("categories");
