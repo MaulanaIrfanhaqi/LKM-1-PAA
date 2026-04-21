@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|c:\\users\\axioo\\source\\repos\\productapi\\productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|c:\\users\\axioo\\source\\repos\\productapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|c:\\users\\axioo\\source\\repos\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|c:\\users\\axioo\\source\\repos\\productapi\\productapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|c:\\users\\axioo\\source\\repos\\productapi\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|c:\\users\\axioo\\source\\repos\\productapi\\productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|c:\\users\\axioo\\source\\repos\\productapi\\productapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B83FC60-CCBA-48C3-9C5E-C8AC716AA58A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Category.cs",
+              "RelativeToolTip": "ProductAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:52:42.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:54:13.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Transaction.cs",
+              "RelativeToolTip": "ProductAPI\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:54:47.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Program.cs",
+              "RelativeToolTip": "ProductAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:57:21.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\appsettings.json",
+              "RelativeToolTip": "ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T09:56:20.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:58:12.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Axioo\\source\\repos\\ProductAPI\\ProductAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:55:59.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
